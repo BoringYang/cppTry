@@ -1,2 +1,2 @@
 # cppTry
-Just for leaning
+Just for learning
